@@ -4,6 +4,7 @@
 - Testnet  : Sepolia         
 - Block No : 4394122 (contract creation)
 - link     : https://sepolia.etherscan.io/address/0xc572beeb724c5b20e67b3b8f8d8a8a8fd6301fee
+- MP Owner : 0x01e07A5371035BeC2A86e1Ff9eaAC6b002edB102
 
 ## Marketplace Features
 Its a simple NFT Marketplace with limited features
