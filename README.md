@@ -14,7 +14,7 @@ Its a simple NFT Marketplace with limited features
 - sellers pay an initial **fixed fee of 0.005 eth** upon listing
 - sellers can **change the listing status** (list or unlist) anytime they want
 - sellers can **change the listing price** anytime they want
-- sellers **pay a fixed royalty** when their NFT is bought 
+- sellers **pay a fixed royalty 0.005 eth** when their NFT is bought 
 
 - marketplace **owner can withdraw** the eth to any address they want
 - marketplace **owner can update the royalty** anytime they want
