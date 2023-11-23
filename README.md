@@ -1,3 +1,5 @@
+## Note: This code is NOT secure - DONT use in production
+
 # NotOpenSea (NFT Marketplace)
 
 - Address  : 0xc572beeb724c5b20e67b3b8f8d8a8a8fd6301fee
